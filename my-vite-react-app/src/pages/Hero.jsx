@@ -3,7 +3,7 @@ import WebsiteImage from '../Assets/Images/E_commerce_Brochure_page-0001-removeb
 
 const Hero = () => {
   return (
-    <section className="flex items-center min-h-screen py-12 bg-gradient-to-r from-[#FFAB00] to-[#FFD500] font-serif">
+    <section className="flex items-center min-h-screen py-12 bg-gradient-to-r from-[#FFAB00] to-[#FFD500]  font-serif">
       <div className="container mx-auto px-6">
         <div className="flex flex-col lg:flex-row items-center justify-between space-y-8 lg:space-y-0">
           {/* Left Side - Image */}
